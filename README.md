@@ -49,7 +49,7 @@ This project analyzes the sales performance of FandP Company using Excel. It cov
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/LohithAnalyst/Coffee_Sale_Analysis/blob/e4bef7fda1020cf64fc9bc41f9d8dfd37fc9f3b1/Screenshot%20Coffee_Sales_Analysis.png)
+![Dashboard Screenshot](https://github.com/LohithAnalyst/FnP-Sales-Analysis-Dashboard/blob/9d55cf78526149e09ef0c8584b2a7da0722e9dbd/Screenshot%20FnP.png)
 
 
 ## 🚀 How to Use
