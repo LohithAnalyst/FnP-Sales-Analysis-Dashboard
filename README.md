@@ -6,6 +6,11 @@ Company Profile: Ferns and Petals operates in the gifting industry, focusing on 
 ## 📌 Project Objective
 This project analyzes the sales performance of FandP Company using Excel. It covers key metrics such as total sales, regional performance, product category performance, and month-over-month trends to support strategic decisions.
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/LohithAnalyst/FnP-Sales-Analysis-Dashboard/blob/9d55cf78526149e09ef0c8584b2a7da0722e9dbd/Screenshot%20FnP.png)
+
+
 ## 📊 Tools Used
 - Microsoft Excel
 - Data Modelling
@@ -45,11 +50,6 @@ This project analyzes the sales performance of FandP Company using Excel. It cov
 6. *Top Products by Revenue*:  
    - 🛍 Gift items like *Doblera Hamper, **Rakhi Sets, and **Gift Boxes* generate the most revenue.
    - Bundle these products for festivals or offer discounts to increase volume.
-
-
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](https://github.com/LohithAnalyst/FnP-Sales-Analysis-Dashboard/blob/9d55cf78526149e09ef0c8584b2a7da0722e9dbd/Screenshot%20FnP.png)
 
 
 ## 🚀 How to Use
