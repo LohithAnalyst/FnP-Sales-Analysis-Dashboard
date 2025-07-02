@@ -48,7 +48,7 @@ This project analyzes the sales performance of FandP Company using Excel. It cov
 
 
 ## 📸 Dashboard Preview
-![image Alt] (https://github.com/LohithAnalyst/FnP-Sales-Analysis-Dashboard/blob/2904b72ec4685aaab31525b49dade556e8794d33/Screenshot%20FnP.png)
+![Dashboard](./dashboard_screenshot.png) (https://github.com/LohithAnalyst/FnP-Sales-Analysis-Dashboard/blob/2904b72ec4685aaab31525b49dade556e8794d33/Screenshot%20FnP.png)
 
 ## 🚀 How to Use
 1. Download the Excel file from the FnP_Dashboard_Excel folder.
